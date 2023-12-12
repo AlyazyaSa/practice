@@ -1,0 +1,14 @@
+C:\Users\Asm__\Desktop\practice\day13\Day14 solution\Day14\bin\Debug\net6.0\Day14.exe
+C:\Users\Asm__\Desktop\practice\day13\Day14 solution\Day14\bin\Debug\net6.0\Day14.deps.json
+C:\Users\Asm__\Desktop\practice\day13\Day14 solution\Day14\bin\Debug\net6.0\Day14.runtimeconfig.json
+C:\Users\Asm__\Desktop\practice\day13\Day14 solution\Day14\bin\Debug\net6.0\Day14.dll
+C:\Users\Asm__\Desktop\practice\day13\Day14 solution\Day14\bin\Debug\net6.0\Day14.pdb
+C:\Users\Asm__\Desktop\practice\day13\Day14 solution\Day14\obj\Debug\net6.0\Day14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asm__\Desktop\practice\day13\Day14 solution\Day14\obj\Debug\net6.0\Day14.AssemblyInfoInputs.cache
+C:\Users\Asm__\Desktop\practice\day13\Day14 solution\Day14\obj\Debug\net6.0\Day14.AssemblyInfo.cs
+C:\Users\Asm__\Desktop\practice\day13\Day14 solution\Day14\obj\Debug\net6.0\Day14.csproj.CoreCompileInputs.cache
+C:\Users\Asm__\Desktop\practice\day13\Day14 solution\Day14\obj\Debug\net6.0\Day14.dll
+C:\Users\Asm__\Desktop\practice\day13\Day14 solution\Day14\obj\Debug\net6.0\refint\Day14.dll
+C:\Users\Asm__\Desktop\practice\day13\Day14 solution\Day14\obj\Debug\net6.0\Day14.pdb
+C:\Users\Asm__\Desktop\practice\day13\Day14 solution\Day14\obj\Debug\net6.0\Day14.genruntimeconfig.cache
+C:\Users\Asm__\Desktop\practice\day13\Day14 solution\Day14\obj\Debug\net6.0\ref\Day14.dll

@@ -1,0 +1,4 @@
+C:\Users\Asm__\Desktop\practice\day18 solution\day18\obj\Debug\net6.0\day18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asm__\Desktop\practice\day18 solution\day18\obj\Debug\net6.0\day18.AssemblyInfoInputs.cache
+C:\Users\Asm__\Desktop\practice\day18 solution\day18\obj\Debug\net6.0\day18.AssemblyInfo.cs
+C:\Users\Asm__\Desktop\practice\day18 solution\day18\obj\Debug\net6.0\day18.csproj.CoreCompileInputs.cache

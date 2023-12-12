@@ -1,0 +1,14 @@
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\oopconstructor Solution\oopconstructor\obj\Debug\net6.0\oopconstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\oopconstructor Solution\oopconstructor\obj\Debug\net6.0\oopconstructor.AssemblyInfoInputs.cache
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\oopconstructor Solution\oopconstructor\obj\Debug\net6.0\oopconstructor.AssemblyInfo.cs
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\oopconstructor Solution\oopconstructor\obj\Debug\net6.0\oopconstructor.csproj.CoreCompileInputs.cache
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\oopconstructor Solution\oopconstructor\bin\Debug\net6.0\oopconstructor.exe
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\oopconstructor Solution\oopconstructor\bin\Debug\net6.0\oopconstructor.deps.json
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\oopconstructor Solution\oopconstructor\bin\Debug\net6.0\oopconstructor.runtimeconfig.json
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\oopconstructor Solution\oopconstructor\bin\Debug\net6.0\oopconstructor.dll
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\oopconstructor Solution\oopconstructor\bin\Debug\net6.0\oopconstructor.pdb
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\oopconstructor Solution\oopconstructor\obj\Debug\net6.0\oopconstructor.dll
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\oopconstructor Solution\oopconstructor\obj\Debug\net6.0\refint\oopconstructor.dll
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\oopconstructor Solution\oopconstructor\obj\Debug\net6.0\oopconstructor.pdb
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\oopconstructor Solution\oopconstructor\obj\Debug\net6.0\oopconstructor.genruntimeconfig.cache
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\oopconstructor Solution\oopconstructor\obj\Debug\net6.0\ref\oopconstructor.dll

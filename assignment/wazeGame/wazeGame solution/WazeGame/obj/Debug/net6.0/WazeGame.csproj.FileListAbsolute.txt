@@ -1,0 +1,4 @@
+C:\Users\Asm__\Desktop\practice\assignment\wazeGame\wazeGame solution\WazeGame\obj\Debug\net6.0\WazeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asm__\Desktop\practice\assignment\wazeGame\wazeGame solution\WazeGame\obj\Debug\net6.0\WazeGame.AssemblyInfoInputs.cache
+C:\Users\Asm__\Desktop\practice\assignment\wazeGame\wazeGame solution\WazeGame\obj\Debug\net6.0\WazeGame.AssemblyInfo.cs
+C:\Users\Asm__\Desktop\practice\assignment\wazeGame\wazeGame solution\WazeGame\obj\Debug\net6.0\WazeGame.csproj.CoreCompileInputs.cache

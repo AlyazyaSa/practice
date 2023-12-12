@@ -1,0 +1,98 @@
+int n;
+n = convert.ToInt32(Console.ReadLine());
+int[] arr1 = new int[n]
+
+int[] arr = new int[4];
+arr[0] = 1;
+arr[0] = 2;
+arr[0] = 3;
+arr[0] = 4;
+
+int [ , ] Grade = new int [3, 4]
+Grade[0, 0] = 1;
+Grade[0, 0] = 2;
+
+int[][] Employees = new int [2] []
+Employees[] = new int[] { 6,  };
+Employees[] = new int[] {};
+
+
+
+solve OF TEACHER::::::::::
+        static void Main(string[] args)
+        {
+            //single Dimensional Array
+            //from any Data type
+
+            int n;
+            n = Convert.ToInt32(Console.ReadLine());
+            int[] arr1 = new int[n];
+            //Dont forget that array is Accessed by Indix
+
+            int[] arr = new int[5];
+            arr[0] = 1;
+            arr[1] = 2;
+            arr[2] = 3;
+            arr[3] = 4;
+            arr[4] = 5;
+            arr[5] = 3;
+
+            //arr1[5 = 3]; 
+            //out of band width
+            //Multi Dimensional Array
+            //1,2,3,4,
+            //5,6,7,8 ==> Matrix 
+            //4, 5, 6
+            int[ , ] Grade = new int[2, 3];
+            Grade[0, 0] = 1;
+            Grade[0, 1] = 2;
+            Grade[1, 0] = 1;
+            Grade[1, 1] = 1;
+
+            //jagged array
+
+            int[][] Employees = new int[2][];
+            Employees[0] = new int[3] { 1, 2, 3, };
+            Employees[1] = new int[2] { 1, 2};
+
+        }
+
+    }
+}
+
+
+======================================================== جزئية ماطبقتها وناقص الهيكل
+          //IF AND ELSE
+          Consolt.WriteLine("entere student grade");
+          int value = Convert.ToInt32(Console.ReadLine());
+          if (value >= 75)
+           {
+          Console.WriteLine("Succedd");
+           }
+          else if(value >=50)
+          { 
+           Console.WriteLine("Failed");
+          }
+          else
+          {
+          Console.WriteLine("usere input ");
+          }
+
+
+
+          //switch used often for menue
+          switch (value)
+          {
+           case 75;
+           console.WriteLine("succedd");
+           break;
+           case= 50:
+           console.WriteLinr("FAILED");
+}
+
+
+
+
+
+
+

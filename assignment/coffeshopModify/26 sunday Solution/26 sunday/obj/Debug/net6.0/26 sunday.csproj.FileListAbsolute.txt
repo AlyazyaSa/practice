@@ -1,0 +1,14 @@
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\26 sunday Solution\26 sunday\obj\Debug\net6.0\26 sunday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\26 sunday Solution\26 sunday\obj\Debug\net6.0\26 sunday.AssemblyInfoInputs.cache
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\26 sunday Solution\26 sunday\obj\Debug\net6.0\26 sunday.AssemblyInfo.cs
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\26 sunday Solution\26 sunday\obj\Debug\net6.0\26 sunday.csproj.CoreCompileInputs.cache
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\26 sunday Solution\26 sunday\bin\Debug\net6.0\26 sunday.exe
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\26 sunday Solution\26 sunday\bin\Debug\net6.0\26 sunday.deps.json
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\26 sunday Solution\26 sunday\bin\Debug\net6.0\26 sunday.runtimeconfig.json
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\26 sunday Solution\26 sunday\bin\Debug\net6.0\26 sunday.dll
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\26 sunday Solution\26 sunday\bin\Debug\net6.0\26 sunday.pdb
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\26 sunday Solution\26 sunday\obj\Debug\net6.0\26 sunday.dll
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\26 sunday Solution\26 sunday\obj\Debug\net6.0\refint\26 sunday.dll
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\26 sunday Solution\26 sunday\obj\Debug\net6.0\26 sunday.pdb
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\26 sunday Solution\26 sunday\obj\Debug\net6.0\26 sunday.genruntimeconfig.cache
+C:\Users\Asm__\Desktop\practice\assignment\coffeshopModify\26 sunday Solution\26 sunday\obj\Debug\net6.0\ref\26 sunday.dll

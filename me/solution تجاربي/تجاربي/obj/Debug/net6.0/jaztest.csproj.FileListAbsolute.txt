@@ -1,0 +1,14 @@
+C:\Users\Asm__\Desktop\practice\me\solution تجاربي\تجاربي\obj\Debug\net6.0\jaztest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asm__\Desktop\practice\me\solution تجاربي\تجاربي\obj\Debug\net6.0\jaztest.AssemblyInfoInputs.cache
+C:\Users\Asm__\Desktop\practice\me\solution تجاربي\تجاربي\obj\Debug\net6.0\jaztest.AssemblyInfo.cs
+C:\Users\Asm__\Desktop\practice\me\solution تجاربي\تجاربي\obj\Debug\net6.0\jaztest.csproj.CoreCompileInputs.cache
+C:\Users\Asm__\Desktop\practice\me\solution تجاربي\تجاربي\bin\Debug\net6.0\jaztest.exe
+C:\Users\Asm__\Desktop\practice\me\solution تجاربي\تجاربي\bin\Debug\net6.0\jaztest.deps.json
+C:\Users\Asm__\Desktop\practice\me\solution تجاربي\تجاربي\bin\Debug\net6.0\jaztest.runtimeconfig.json
+C:\Users\Asm__\Desktop\practice\me\solution تجاربي\تجاربي\bin\Debug\net6.0\jaztest.dll
+C:\Users\Asm__\Desktop\practice\me\solution تجاربي\تجاربي\bin\Debug\net6.0\jaztest.pdb
+C:\Users\Asm__\Desktop\practice\me\solution تجاربي\تجاربي\obj\Debug\net6.0\jaztest.dll
+C:\Users\Asm__\Desktop\practice\me\solution تجاربي\تجاربي\obj\Debug\net6.0\refint\jaztest.dll
+C:\Users\Asm__\Desktop\practice\me\solution تجاربي\تجاربي\obj\Debug\net6.0\jaztest.pdb
+C:\Users\Asm__\Desktop\practice\me\solution تجاربي\تجاربي\obj\Debug\net6.0\jaztest.genruntimeconfig.cache
+C:\Users\Asm__\Desktop\practice\me\solution تجاربي\تجاربي\obj\Debug\net6.0\ref\jaztest.dll

@@ -1,0 +1,14 @@
+C:\Users\Asm__\Desktop\practice\day12\day12 solution\day12\obj\Debug\net6.0\day12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asm__\Desktop\practice\day12\day12 solution\day12\obj\Debug\net6.0\day12.AssemblyInfoInputs.cache
+C:\Users\Asm__\Desktop\practice\day12\day12 solution\day12\obj\Debug\net6.0\day12.AssemblyInfo.cs
+C:\Users\Asm__\Desktop\practice\day12\day12 solution\day12\obj\Debug\net6.0\day12.csproj.CoreCompileInputs.cache
+C:\Users\Asm__\Desktop\practice\day12\day12 solution\day12\bin\Debug\net6.0\day12.exe
+C:\Users\Asm__\Desktop\practice\day12\day12 solution\day12\bin\Debug\net6.0\day12.deps.json
+C:\Users\Asm__\Desktop\practice\day12\day12 solution\day12\bin\Debug\net6.0\day12.runtimeconfig.json
+C:\Users\Asm__\Desktop\practice\day12\day12 solution\day12\bin\Debug\net6.0\day12.dll
+C:\Users\Asm__\Desktop\practice\day12\day12 solution\day12\bin\Debug\net6.0\day12.pdb
+C:\Users\Asm__\Desktop\practice\day12\day12 solution\day12\obj\Debug\net6.0\day12.dll
+C:\Users\Asm__\Desktop\practice\day12\day12 solution\day12\obj\Debug\net6.0\refint\day12.dll
+C:\Users\Asm__\Desktop\practice\day12\day12 solution\day12\obj\Debug\net6.0\day12.pdb
+C:\Users\Asm__\Desktop\practice\day12\day12 solution\day12\obj\Debug\net6.0\day12.genruntimeconfig.cache
+C:\Users\Asm__\Desktop\practice\day12\day12 solution\day12\obj\Debug\net6.0\ref\day12.dll

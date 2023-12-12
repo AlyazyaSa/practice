@@ -1,0 +1,4 @@
+C:\Users\Asm__\Desktop\practice\HW\HW2week3 soulution\HW2week3\obj\Debug\net6.0\HW2week3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asm__\Desktop\practice\HW\HW2week3 soulution\HW2week3\obj\Debug\net6.0\HW2week3.AssemblyInfoInputs.cache
+C:\Users\Asm__\Desktop\practice\HW\HW2week3 soulution\HW2week3\obj\Debug\net6.0\HW2week3.AssemblyInfo.cs
+C:\Users\Asm__\Desktop\practice\HW\HW2week3 soulution\HW2week3\obj\Debug\net6.0\HW2week3.csproj.CoreCompileInputs.cache
